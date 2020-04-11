@@ -1,2 +1,0 @@
-# capstoneMSPaint
-Created with CodeSandbox
